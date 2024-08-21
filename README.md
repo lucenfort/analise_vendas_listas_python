@@ -9,4 +9,5 @@ Este projeto consiste em uma análise simples de vendas mensais utilizando lista
 - **Função `obter_entrada_vendas()`**: Recebe uma string de valores separados por vírgula, converte esses valores em uma lista de inteiros e os utiliza para calcular o total de vendas e a média mensal.
 - **Exemplos de Entrada e Saída**: O projeto inclui testes com exemplos específicos de entradas e suas saídas esperadas, que estão detalhados abaixo.
 
-![image](https://github.com/user-attachments/assets/3f05aa37-16c6-4711-92a2-23ceecc26d71)
+
+![image](https://github.com/user-attachments/assets/0fc898bd-b13d-437d-a049-cc0d30f4f579)
